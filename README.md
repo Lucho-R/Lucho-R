@@ -16,11 +16,6 @@ Skills and Experiences:
 - Advanced Excel
 - Exploring customers
 
-
-
-
-- 🔭 I’m currently working on Orbita
-- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with Next .js
 - 💬 Ask me about my favorites programming language
